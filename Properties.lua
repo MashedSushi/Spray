@@ -35,9 +35,9 @@ Properties["Sound"] = {
 		Archivable =				{"Archivable:Instance", "boolean"},
 		ClassName = 				{"ClassName:Instance", "string"},
 	]]--
-	Volume =					 {"Volume:Sound", "number"},
-	PlaybackSpeed =					 {"PlaybackSpeed:Sound", "number"},
-	Pitch =						 {"Pitch:Sound", "number"},
+	Volume =					{"Volume:Sound", "number"},
+	PlaybackSpeed =					{"PlaybackSpeed:Sound", "number"},
+	Pitch =						{"Pitch:Sound", "number"},
 }
 
 Properties["Frame"] = {
